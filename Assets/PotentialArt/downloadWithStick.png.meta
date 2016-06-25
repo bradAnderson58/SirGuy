@@ -1,0 +1,3706 @@
+fileFormatVersion: 2
+guid: 2222282b5a5cf4d458db6c7999e9ba4d
+timeCreated: 1466877812
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: downloadWithStick_0
+    21300002: downloadWithStick_1
+    21300004: downloadWithStick_2
+    21300006: downloadWithStick_3
+    21300008: downloadWithStick_4
+    21300010: downloadWithStick_5
+    21300012: downloadWithStick_6
+    21300014: downloadWithStick_7
+    21300016: downloadWithStick_8
+    21300018: downloadWithStick_9
+    21300020: downloadWithStick_10
+    21300022: downloadWithStick_11
+    21300024: downloadWithStick_12
+    21300026: downloadWithStick_13
+    21300028: downloadWithStick_14
+    21300030: downloadWithStick_15
+    21300032: downloadWithStick_16
+    21300034: downloadWithStick_17
+    21300036: downloadWithStick_18
+    21300038: downloadWithStick_19
+    21300040: downloadWithStick_20
+    21300042: downloadWithStick_21
+    21300044: downloadWithStick_22
+    21300046: downloadWithStick_23
+    21300048: downloadWithStick_24
+    21300050: downloadWithStick_25
+    21300052: downloadWithStick_26
+    21300054: downloadWithStick_27
+    21300056: downloadWithStick_28
+    21300058: downloadWithStick_29
+    21300060: downloadWithStick_30
+    21300062: downloadWithStick_31
+    21300064: downloadWithStick_32
+    21300066: downloadWithStick_33
+    21300068: downloadWithStick_34
+    21300070: downloadWithStick_35
+    21300072: downloadWithStick_36
+    21300074: downloadWithStick_37
+    21300076: downloadWithStick_38
+    21300078: downloadWithStick_39
+    21300080: downloadWithStick_40
+    21300082: downloadWithStick_41
+    21300084: downloadWithStick_42
+    21300086: downloadWithStick_43
+    21300088: downloadWithStick_44
+    21300090: downloadWithStick_45
+    21300092: downloadWithStick_46
+    21300094: downloadWithStick_47
+    21300096: downloadWithStick_48
+    21300098: downloadWithStick_49
+    21300100: downloadWithStick_50
+    21300102: downloadWithStick_51
+    21300104: downloadWithStick_52
+    21300106: downloadWithStick_53
+    21300108: downloadWithStick_54
+    21300110: downloadWithStick_55
+    21300112: downloadWithStick_56
+    21300114: downloadWithStick_57
+    21300116: downloadWithStick_58
+    21300118: downloadWithStick_59
+    21300120: downloadWithStick_60
+    21300122: downloadWithStick_61
+    21300124: downloadWithStick_62
+    21300126: downloadWithStick_63
+    21300128: downloadWithStick_64
+    21300130: downloadWithStick_65
+    21300132: downloadWithStick_66
+    21300134: downloadWithStick_67
+    21300136: downloadWithStick_68
+    21300138: downloadWithStick_69
+    21300140: downloadWithStick_70
+    21300142: downloadWithStick_71
+    21300144: downloadWithStick_72
+    21300146: downloadWithStick_73
+    21300148: downloadWithStick_74
+    21300150: downloadWithStick_75
+    21300152: downloadWithStick_76
+    21300154: downloadWithStick_77
+    21300156: downloadWithStick_78
+    21300158: downloadWithStick_79
+    21300160: downloadWithStick_80
+    21300162: downloadWithStick_81
+    21300164: downloadWithStick_82
+    21300166: downloadWithStick_83
+    21300168: downloadWithStick_84
+    21300170: downloadWithStick_85
+    21300172: downloadWithStick_86
+    21300174: downloadWithStick_87
+    21300176: downloadWithStick_88
+    21300178: downloadWithStick_89
+    21300180: downloadWithStick_90
+    21300182: downloadWithStick_91
+    21300184: downloadWithStick_92
+    21300186: downloadWithStick_93
+    21300188: downloadWithStick_94
+    21300190: downloadWithStick_95
+    21300192: downloadWithStick_96
+    21300194: downloadWithStick_97
+    21300196: downloadWithStick_98
+    21300198: downloadWithStick_99
+    21300200: downloadWithStick_100
+    21300202: downloadWithStick_101
+    21300204: downloadWithStick_102
+    21300206: downloadWithStick_103
+    21300208: downloadWithStick_104
+    21300210: downloadWithStick_105
+    21300212: downloadWithStick_106
+    21300214: downloadWithStick_107
+    21300216: downloadWithStick_108
+    21300218: downloadWithStick_109
+    21300220: downloadWithStick_110
+    21300222: downloadWithStick_111
+    21300224: downloadWithStick_112
+    21300226: downloadWithStick_113
+    21300228: downloadWithStick_114
+    21300230: downloadWithStick_115
+    21300232: downloadWithStick_116
+    21300234: downloadWithStick_117
+    21300236: downloadWithStick_118
+    21300238: downloadWithStick_119
+    21300240: downloadWithStick_120
+    21300242: downloadWithStick_121
+    21300244: downloadWithStick_122
+    21300246: downloadWithStick_123
+    21300248: downloadWithStick_124
+    21300250: downloadWithStick_125
+    21300252: downloadWithStick_126
+    21300254: downloadWithStick_127
+    21300256: downloadWithStick_128
+    21300258: downloadWithStick_129
+    21300260: downloadWithStick_130
+    21300262: downloadWithStick_131
+    21300264: downloadWithStick_132
+    21300266: downloadWithStick_133
+    21300268: downloadWithStick_134
+    21300270: downloadWithStick_135
+    21300272: downloadWithStick_136
+    21300274: downloadWithStick_137
+    21300276: downloadWithStick_138
+    21300278: downloadWithStick_139
+    21300280: downloadWithStick_140
+    21300282: downloadWithStick_141
+    21300284: downloadWithStick_142
+    21300286: downloadWithStick_143
+    21300288: downloadWithStick_144
+    21300290: downloadWithStick_145
+    21300292: downloadWithStick_146
+    21300294: downloadWithStick_147
+    21300296: downloadWithStick_148
+    21300298: downloadWithStick_149
+    21300300: downloadWithStick_150
+    21300302: downloadWithStick_151
+    21300304: downloadWithStick_152
+    21300306: downloadWithStick_153
+    21300308: downloadWithStick_154
+    21300310: downloadWithStick_155
+    21300312: downloadWithStick_156
+    21300314: downloadWithStick_157
+    21300316: downloadWithStick_158
+    21300318: downloadWithStick_159
+    21300320: downloadWithStick_160
+    21300322: downloadWithStick_161
+    21300324: downloadWithStick_162
+    21300326: downloadWithStick_163
+    21300328: downloadWithStick_164
+    21300330: downloadWithStick_165
+    21300332: downloadWithStick_166
+    21300334: downloadWithStick_167
+    21300336: downloadWithStick_168
+    21300338: downloadWithStick_169
+    21300340: downloadWithStick_170
+    21300342: downloadWithStick_171
+    21300344: downloadWithStick_172
+    21300346: downloadWithStick_173
+    21300348: downloadWithStick_174
+    21300350: downloadWithStick_175
+    21300352: downloadWithStick_176
+    21300354: downloadWithStick_177
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: downloadWithStick_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 19}
+        - {x: -8, y: 19}
+        - {x: -17, y: 14}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 15}
+    - name: downloadWithStick_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -15, y: 10}
+        - {x: -16, y: 2}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 17}
+        - {x: 9, y: 19}
+    - name: downloadWithStick_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -10, y: 19}
+        - {x: -16, y: 14}
+        - {x: -16, y: -30}
+        - {x: -14, y: -32}
+        - {x: 10, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: 4}
+        - {x: 15, y: 14}
+    - name: downloadWithStick_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -8, y: 19}
+        - {x: -20, y: 2}
+        - {x: -20, y: -22}
+        - {x: -17, y: -30}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 20, y: -31}
+        - {x: 20, y: 2}
+        - {x: 16, y: 15}
+    - name: downloadWithStick_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 15}
+        - {x: 6, y: 19}
+        - {x: -9, y: 19}
+        - {x: -27, y: 4}
+        - {x: -27, y: -6}
+        - {x: -21, y: -32}
+        - {x: 17, y: -32}
+        - {x: 18, y: -30}
+        - {x: 27, y: -6}
+        - {x: 27, y: 5}
+    - name: downloadWithStick_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 19}
+        - {x: -26, y: 16}
+        - {x: -26, y: -20}
+        - {x: -23, y: -32}
+        - {x: 19, y: -32}
+        - {x: 26, y: -18}
+        - {x: 26, y: 19}
+    - name: downloadWithStick_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -8, y: 19}
+        - {x: -20, y: 2}
+        - {x: -20, y: -22}
+        - {x: -17, y: -30}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 20, y: -31}
+        - {x: 20, y: 2}
+        - {x: 16, y: 15}
+    - name: downloadWithStick_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22}
+        - {x: -11, y: 18}
+        - {x: -13, y: 10}
+        - {x: -13, y: -31}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -26}
+        - {x: 13, y: 14}
+        - {x: 9, y: 22}
+    - name: downloadWithStick_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -13, y: 14}
+        - {x: -13, y: -29}
+        - {x: -6, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -25}
+        - {x: 14, y: 12}
+        - {x: 12, y: 22}
+    - name: downloadWithStick_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -13, y: 17}
+        - {x: -13, y: -27}
+        - {x: -12, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -26}
+        - {x: 13, y: 22}
+    - name: downloadWithStick_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22}
+        - {x: -14, y: 17}
+        - {x: -14, y: -27}
+        - {x: -12, y: -29}
+        - {x: -7, y: -32}
+        - {x: 6, y: -32}
+        - {x: 13, y: -30}
+        - {x: 16, y: -25}
+        - {x: 16, y: 12}
+        - {x: 13, y: 22}
+    - name: downloadWithStick_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -16, y: 8}
+        - {x: -16, y: -14}
+        - {x: -13, y: -24}
+        - {x: -10, y: -31}
+        - {x: -4, y: -32}
+        - {x: 8, y: -32}
+        - {x: 21, y: -16}
+        - {x: 21, y: 9}
+        - {x: 15, y: 22}
+    - name: downloadWithStick_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 22}
+        - {x: -16, y: 21}
+        - {x: -16, y: -27}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -14}
+        - {x: 21, y: 13}
+        - {x: 17, y: 22}
+    - name: downloadWithStick_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -14, y: 13}
+        - {x: -14, y: -31}
+        - {x: -8, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 22}
+    - name: downloadWithStick_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -17, y: 1}
+        - {x: -17, y: -25}
+        - {x: -16, y: -31}
+        - {x: -13, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -31}
+        - {x: 17, y: 4}
+        - {x: 10, y: 20}
+    - name: downloadWithStick_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -9, y: 20}
+        - {x: -17, y: 12}
+        - {x: -17, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -31}
+        - {x: 17, y: -2}
+        - {x: 14, y: 11}
+    - name: downloadWithStick_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -16, y: 8}
+        - {x: -16, y: -32}
+        - {x: 15, y: -32}
+        - {x: 16, y: -29}
+        - {x: 16, y: 5}
+        - {x: 11, y: 20}
+    - name: downloadWithStick_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 15}
+        - {x: 9, y: 20}
+        - {x: -19, y: 20}
+        - {x: -20, y: 18}
+        - {x: -20, y: -27}
+        - {x: -16, y: -32}
+        - {x: 13, y: -32}
+        - {x: 20, y: -19}
+    - name: downloadWithStick_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 20}
+        - {x: -12, y: 20}
+        - {x: -27, y: 6}
+        - {x: -27, y: -21}
+        - {x: -20, y: -32}
+        - {x: 19, y: -32}
+        - {x: 27, y: -6}
+        - {x: 27, y: 6}
+        - {x: 25, y: 7}
+    - name: downloadWithStick_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 7}
+        - {x: 22, y: 14}
+        - {x: 14, y: 20}
+        - {x: -13, y: 20}
+        - {x: -26, y: 17}
+        - {x: -26, y: -21}
+        - {x: -22, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -30}
+        - {x: 26, y: -1}
+    - name: downloadWithStick_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -19, y: 1}
+        - {x: -19, y: -23}
+        - {x: -16, y: -32}
+        - {x: 18, y: -32}
+        - {x: 19, y: -28}
+        - {x: 19, y: 0}
+        - {x: 10, y: 20}
+    - name: downloadWithStick_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -13, y: 17}
+        - {x: -13, y: -31}
+        - {x: -10, y: -32}
+        - {x: 2, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: 13}
+        - {x: 6, y: 22}
+    - name: downloadWithStick_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22}
+        - {x: -14, y: 19}
+        - {x: -14, y: -23}
+        - {x: -13, y: -30}
+        - {x: -10, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -28}
+        - {x: 13, y: 21}
+        - {x: 8, y: 22}
+    - name: downloadWithStick_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -13, y: 18}
+        - {x: -13, y: -30}
+        - {x: -8, y: -32}
+        - {x: 12, y: -32}
+        - {x: 13, y: -19}
+        - {x: 13, y: 14}
+        - {x: 7, y: 22}
+    - name: downloadWithStick_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 22}
+        - {x: -16, y: 15}
+        - {x: -16, y: -24}
+        - {x: -13, y: -30}
+        - {x: -10, y: -32}
+        - {x: 3, y: -32}
+        - {x: 14, y: -30}
+        - {x: 14, y: 11}
+        - {x: 7, y: 22}
+    - name: downloadWithStick_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22}
+        - {x: -21, y: 4}
+        - {x: -21, y: -15}
+        - {x: -8, y: -32}
+        - {x: 2, y: -32}
+        - {x: 14, y: -30}
+        - {x: 16, y: -25}
+        - {x: 16, y: 6}
+        - {x: 10, y: 22}
+    - name: downloadWithStick_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 22}
+        - {x: -9, y: 22}
+        - {x: -21, y: 12}
+        - {x: -21, y: -9}
+        - {x: -15, y: -31}
+        - {x: -11, y: -32}
+        - {x: 3, y: -32}
+        - {x: 14, y: -30}
+        - {x: 16, y: 0}
+        - {x: 16, y: 6}
+        - {x: 10, y: 17}
+    - name: downloadWithStick_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 22}
+        - {x: -8, y: 21}
+        - {x: -14, y: 12}
+        - {x: -18, y: 4}
+        - {x: -18, y: -17}
+        - {x: -13, y: -30}
+        - {x: -10, y: -32}
+        - {x: 2, y: -32}
+        - {x: 14, y: -30}
+        - {x: 14, y: 11}
+        - {x: 7, y: 22}
+    - name: downloadWithStick_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -17, y: 3}
+        - {x: -17, y: -27}
+        - {x: -16, y: -31}
+        - {x: -14, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 18}
+        - {x: 11, y: 19}
+    - name: downloadWithStick_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -14, y: 15}
+        - {x: -14, y: -27}
+        - {x: -13, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 17}
+        - {x: 12, y: 18}
+    - name: downloadWithStick_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -12, y: 14}
+        - {x: -12, y: -28}
+        - {x: -2, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -30}
+        - {x: 14, y: 17}
+        - {x: 13, y: 19}
+    - name: downloadWithStick_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -12, y: -31}
+        - {x: -9, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 14}
+        - {x: 12, y: 19}
+    - name: downloadWithStick_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -11, y: 14}
+        - {x: -11, y: -24}
+        - {x: -8, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 14}
+        - {x: 9, y: 18}
+    - name: downloadWithStick_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 18}
+        - {x: -11, y: 15}
+        - {x: -11, y: -28}
+        - {x: -7, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 13}
+        - {x: 11, y: 18}
+    - name: downloadWithStick_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18}
+        - {x: -11, y: 14}
+        - {x: -11, y: -24}
+        - {x: -8, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 14}
+        - {x: 9, y: 18}
+    - name: downloadWithStick_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -12, y: -31}
+        - {x: -9, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 14}
+        - {x: 12, y: 19}
+    - name: downloadWithStick_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22}
+        - {x: -11, y: 18}
+        - {x: -13, y: 10}
+        - {x: -13, y: -31}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -26}
+        - {x: 13, y: 14}
+        - {x: 9, y: 22}
+    - name: downloadWithStick_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: -30}
+        - {x: -13, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -27}
+        - {x: 14, y: 19}
+        - {x: 13, y: 22}
+        - {x: -10, y: 22}
+        - {x: -15, y: 12}
+    - name: downloadWithStick_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22}
+        - {x: -15, y: 20}
+        - {x: -15, y: -27}
+        - {x: -13, y: -29}
+        - {x: -5, y: -32}
+        - {x: 10, y: -32}
+        - {x: 16, y: -22}
+        - {x: 16, y: 7}
+        - {x: 10, y: 22}
+    - name: downloadWithStick_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22}
+        - {x: -13, y: 20}
+        - {x: -13, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 12}
+        - {x: 12, y: 22}
+    - name: downloadWithStick_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -13, y: 18}
+        - {x: -16, y: 4}
+        - {x: -19, y: -7}
+        - {x: -19, y: -13}
+        - {x: -15, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 15}
+        - {x: 7, y: 22}
+    - name: downloadWithStick_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -15, y: 18}
+        - {x: -22, y: -5}
+        - {x: -22, y: -16}
+        - {x: -18, y: -18}
+        - {x: -12, y: -29}
+        - {x: -5, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 19}
+        - {x: 8, y: 22}
+    - name: downloadWithStick_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -13, y: 18}
+        - {x: -16, y: 4}
+        - {x: -19, y: -7}
+        - {x: -19, y: -13}
+        - {x: -15, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 15}
+        - {x: 7, y: 22}
+    - name: downloadWithStick_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 22}
+        - {x: -13, y: 15}
+        - {x: -13, y: -32}
+        - {x: 14, y: -32}
+        - {x: 17, y: -29}
+        - {x: 17, y: 12}
+        - {x: 11, y: 22}
+    - name: downloadWithStick_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 14}
+        - {x: 8, y: 20}
+        - {x: -8, y: 20}
+        - {x: -14, y: 10}
+        - {x: -17, y: -4}
+        - {x: -17, y: -23}
+        - {x: -16, y: -31}
+        - {x: -12, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+        - {x: 1, y: -28}
+    - name: downloadWithStick_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -15, y: 18}
+        - {x: -15, y: -26}
+        - {x: -14, y: -31}
+        - {x: 13, y: -31}
+        - {x: 13, y: 19}
+        - {x: 12, y: 20}
+    - name: downloadWithStick_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -13, y: 11}
+        - {x: -13, y: -30}
+        - {x: -11, y: -31}
+        - {x: 13, y: -31}
+        - {x: 13, y: 16}
+        - {x: 8, y: 20}
+    - name: downloadWithStick_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -16, y: 6}
+        - {x: -16, y: -26}
+        - {x: -6, y: -31}
+        - {x: 13, y: -31}
+        - {x: 13, y: 17}
+        - {x: 8, y: 20}
+    - name: downloadWithStick_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -13, y: 13}
+        - {x: -13, y: -22}
+        - {x: -12, y: -27}
+        - {x: -5, y: -31}
+        - {x: 10, y: -31}
+        - {x: 13, y: -30}
+        - {x: 13, y: 13}
+        - {x: 8, y: 19}
+    - name: downloadWithStick_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: -27}
+        - {x: -6, y: -31}
+        - {x: 13, y: -31}
+        - {x: 13, y: 19}
+        - {x: -9, y: 19}
+        - {x: -13, y: 12}
+    - name: downloadWithStick_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -13, y: 13}
+        - {x: -13, y: -22}
+        - {x: -12, y: -27}
+        - {x: -5, y: -31}
+        - {x: 10, y: -31}
+        - {x: 13, y: -30}
+        - {x: 13, y: 13}
+        - {x: 8, y: 19}
+    - name: downloadWithStick_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 20}
+        - {x: -16, y: 6}
+        - {x: -16, y: -26}
+        - {x: -6, y: -31}
+        - {x: 11, y: -31}
+        - {x: 13, y: -26}
+        - {x: 13, y: 14}
+        - {x: 8, y: 20}
+    - name: downloadWithStick_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -13, y: 17}
+        - {x: -13, y: -31}
+        - {x: -10, y: -32}
+        - {x: 2, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: 13}
+        - {x: 6, y: 22}
+    - name: downloadWithStick_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22}
+        - {x: -14, y: 12}
+        - {x: -13, y: 5}
+        - {x: -14, y: 0}
+        - {x: -14, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -30}
+        - {x: 15, y: 20}
+        - {x: 7, y: 22}
+    - name: downloadWithStick_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22}
+        - {x: -16, y: 9}
+        - {x: -16, y: -23}
+        - {x: -13, y: -30}
+        - {x: -10, y: -32}
+        - {x: 6, y: -32}
+        - {x: 10, y: -31}
+        - {x: 15, y: -27}
+        - {x: 15, y: 11}
+        - {x: 11, y: 22}
+    - name: downloadWithStick_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22}
+        - {x: -17, y: 3}
+        - {x: -17, y: -21}
+        - {x: -11, y: -32}
+        - {x: 1, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: 13}
+        - {x: 7, y: 22}
+    - name: downloadWithStick_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 18}
+        - {x: 8, y: 22}
+        - {x: -7, y: 22}
+        - {x: -12, y: 12}
+        - {x: -11, y: 5}
+        - {x: -12, y: -6}
+        - {x: -12, y: -29}
+        - {x: -11, y: -32}
+        - {x: 3, y: -32}
+        - {x: 14, y: -30}
+        - {x: 19, y: -16}
+        - {x: 19, y: -2}
+    - name: downloadWithStick_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22}
+        - {x: -12, y: -32}
+        - {x: 2, y: -32}
+        - {x: 13, y: -30}
+        - {x: 22, y: -17}
+        - {x: 22, y: 1}
+        - {x: 13, y: 22}
+    - name: downloadWithStick_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 18}
+        - {x: 8, y: 22}
+        - {x: -7, y: 22}
+        - {x: -12, y: 12}
+        - {x: -11, y: 5}
+        - {x: -12, y: -6}
+        - {x: -12, y: -29}
+        - {x: -11, y: -32}
+        - {x: 3, y: -32}
+        - {x: 14, y: -30}
+        - {x: 19, y: -16}
+        - {x: 19, y: -2}
+    - name: downloadWithStick_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 22}
+        - {x: -2, y: 22}
+        - {x: -9, y: 21}
+        - {x: -14, y: 12}
+        - {x: -17, y: -4}
+        - {x: -17, y: -16}
+        - {x: -14, y: -25}
+        - {x: -11, y: -32}
+        - {x: 0, y: -32}
+        - {x: 13, y: -29}
+        - {x: 13, y: 13}
+    - name: downloadWithStick_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -3, y: 20}
+        - {x: -9, y: 19}
+        - {x: -14, y: 11}
+        - {x: -17, y: -6}
+        - {x: -17, y: -21}
+        - {x: -12, y: -31}
+        - {x: 14, y: -31}
+        - {x: 17, y: -25}
+        - {x: 17, y: -1}
+        - {x: 13, y: 14}
+    - name: downloadWithStick_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -17, y: 4}
+        - {x: -17, y: -26}
+        - {x: -16, y: -30}
+        - {x: -14, y: -31}
+        - {x: 17, y: -31}
+        - {x: 17, y: 19}
+        - {x: 11, y: 20}
+    - name: downloadWithStick_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -17, y: 3}
+        - {x: -17, y: -24}
+        - {x: -16, y: -30}
+        - {x: -6, y: -32}
+        - {x: 9, y: -32}
+        - {x: 15, y: -30}
+        - {x: 17, y: -26}
+        - {x: 17, y: 4}
+        - {x: 12, y: 20}
+    - name: downloadWithStick_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -15, y: 14}
+        - {x: -17, y: -1}
+        - {x: -17, y: -22}
+        - {x: -9, y: -30}
+        - {x: -5, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 11}
+        - {x: 11, y: 19}
+    - name: downloadWithStick_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -32}
+        - {x: 17, y: -29}
+        - {x: 17, y: 11}
+        - {x: 12, y: 20}
+        - {x: -13, y: 20}
+        - {x: -17, y: 19}
+        - {x: -17, y: -32}
+    - name: downloadWithStick_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -11, y: 20}
+        - {x: -17, y: 3}
+        - {x: -17, y: -25}
+        - {x: -12, y: -31}
+        - {x: 12, y: -31}
+        - {x: 17, y: -26}
+        - {x: 17, y: 4}
+        - {x: 13, y: 14}
+    - name: downloadWithStick_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -17, y: 15}
+        - {x: -17, y: -29}
+        - {x: -12, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 18}
+        - {x: 11, y: 20}
+    - name: downloadWithStick_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -16, y: 11}
+        - {x: -16, y: -21}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 9}
+        - {x: 15, y: 19}
+    - name: downloadWithStick_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -17, y: 11}
+        - {x: -17, y: -26}
+        - {x: -11, y: -32}
+        - {x: 9, y: -32}
+        - {x: 17, y: -26}
+        - {x: 17, y: 5}
+        - {x: 12, y: 20}
+    - name: downloadWithStick_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22}
+        - {x: -11, y: 18}
+        - {x: -13, y: 10}
+        - {x: -13, y: -31}
+        - {x: -10, y: -32}
+        - {x: 10, y: -32}
+        - {x: 13, y: -26}
+        - {x: 13, y: 14}
+        - {x: 9, y: 22}
+    - name: downloadWithStick_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -15, y: 19}
+        - {x: -15, y: -30}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 14, y: -31}
+        - {x: 14, y: 15}
+        - {x: 13, y: 21}
+    - name: downloadWithStick_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -13, y: 21}
+        - {x: -13, y: -31}
+        - {x: 9, y: -31}
+        - {x: 13, y: -23}
+        - {x: 13, y: 14}
+        - {x: 9, y: 22}
+    - name: downloadWithStick_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22}
+        - {x: -13, y: 13}
+        - {x: -13, y: 0}
+        - {x: -10, y: -23}
+        - {x: -6, y: -31}
+        - {x: 8, y: -31}
+        - {x: 15, y: -26}
+        - {x: 15, y: 13}
+        - {x: 13, y: 22}
+    - name: downloadWithStick_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22}
+        - {x: -11, y: 18}
+        - {x: -13, y: 10}
+        - {x: -13, y: -31}
+        - {x: -9, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -28}
+        - {x: 16, y: 10}
+        - {x: 13, y: 22}
+    - name: downloadWithStick_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 21}
+        - {x: -14, y: 14}
+        - {x: -14, y: -32}
+        - {x: 16, y: -32}
+        - {x: 18, y: -29}
+        - {x: 18, y: -3}
+        - {x: 11, y: 21}
+    - name: downloadWithStick_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -13, y: 21}
+        - {x: -13, y: -32}
+        - {x: 9, y: -32}
+        - {x: 16, y: -24}
+        - {x: 16, y: 15}
+        - {x: 10, y: 22}
+    - name: downloadWithStick_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22}
+        - {x: -11, y: 18}
+        - {x: -13, y: 10}
+        - {x: -13, y: -4}
+        - {x: -8, y: -31}
+        - {x: -3, y: -32}
+        - {x: 9, y: -32}
+        - {x: 15, y: -29}
+        - {x: 15, y: 17}
+        - {x: 10, y: 22}
+    - name: downloadWithStick_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -8, y: 22}
+        - {x: -13, y: 13}
+        - {x: -13, y: 0}
+        - {x: -10, y: -24}
+        - {x: -7, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -30}
+        - {x: 14, y: -15}
+        - {x: 14, y: 16}
+    - name: downloadWithStick_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 14}
+        - {x: 8, y: 20}
+        - {x: -8, y: 20}
+        - {x: -14, y: 10}
+        - {x: -17, y: -4}
+        - {x: -17, y: -23}
+        - {x: -16, y: -31}
+        - {x: -12, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+        - {x: 1, y: -28}
+    - name: downloadWithStick_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -17, y: 1}
+        - {x: -17, y: -23}
+        - {x: -12, y: -32}
+        - {x: 16, y: -32}
+        - {x: 17, y: -31}
+        - {x: 17, y: 13}
+        - {x: 14, y: 20}
+    - name: downloadWithStick_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -17, y: 3}
+        - {x: -17, y: -25}
+        - {x: -9, y: -31}
+        - {x: -6, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -31}
+        - {x: 17, y: -28}
+        - {x: 17, y: 7}
+        - {x: 11, y: 20}
+    - name: downloadWithStick_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -16, y: 15}
+        - {x: -16, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 17}
+        - {x: 10, y: 19}
+    - name: downloadWithStick_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -17, y: 3}
+        - {x: -17, y: -27}
+        - {x: -13, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -23}
+        - {x: 17, y: 9}
+        - {x: 11, y: 20}
+    - name: downloadWithStick_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 20}
+        - {x: -17, y: 2}
+        - {x: -17, y: -30}
+        - {x: -16, y: -32}
+        - {x: 16, y: -32}
+        - {x: 17, y: -31}
+        - {x: 17, y: 11}
+        - {x: 14, y: 20}
+    - name: downloadWithStick_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 11}
+        - {x: 8, y: 20}
+        - {x: -8, y: 20}
+        - {x: -14, y: 10}
+        - {x: -17, y: 1}
+        - {x: -17, y: -31}
+        - {x: -15, y: -32}
+        - {x: 16, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 2}
+    - name: downloadWithStick_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 19}
+        - {x: -17, y: 18}
+        - {x: -17, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 19}
+    - name: downloadWithStick_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 11}
+        - {x: 8, y: 20}
+        - {x: -8, y: 20}
+        - {x: -14, y: 10}
+        - {x: -17, y: 2}
+        - {x: -17, y: -20}
+        - {x: -14, y: -32}
+        - {x: 16, y: -32}
+        - {x: 17, y: -27}
+        - {x: 17, y: 2}
+    - name: downloadWithStick_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -13, y: 17}
+        - {x: -13, y: -31}
+        - {x: -10, y: -32}
+        - {x: 2, y: -32}
+        - {x: 13, y: -30}
+        - {x: 13, y: 13}
+        - {x: 6, y: 22}
+    - name: downloadWithStick_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21}
+        - {x: -14, y: 14}
+        - {x: -14, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 18}
+        - {x: 12, y: 21}
+    - name: downloadWithStick_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22}
+        - {x: -13, y: 19}
+        - {x: -13, y: -27}
+        - {x: -12, y: -31}
+        - {x: 13, y: -31}
+        - {x: 13, y: 15}
+        - {x: 9, y: 22}
+    - name: downloadWithStick_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22}
+        - {x: -15, y: 15}
+        - {x: -15, y: -24}
+        - {x: -10, y: -31}
+        - {x: 10, y: -31}
+        - {x: 13, y: -17}
+        - {x: 13, y: 15}
+        - {x: 9, y: 22}
+    - name: downloadWithStick_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22}
+        - {x: -16, y: 12}
+        - {x: -16, y: -23}
+        - {x: -12, y: -30}
+        - {x: -4, y: -32}
+        - {x: 9, y: -32}
+        - {x: 13, y: -29}
+        - {x: 13, y: 15}
+        - {x: 7, y: 22}
+    - name: downloadWithStick_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22}
+        - {x: -18, y: 19}
+        - {x: -18, y: -29}
+        - {x: -17, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 16}
+        - {x: 10, y: 22}
+    - name: downloadWithStick_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -16, y: 15}
+        - {x: -16, y: -24}
+        - {x: -9, y: -32}
+        - {x: 7, y: -32}
+        - {x: 13, y: -31}
+        - {x: 13, y: 17}
+        - {x: 6, y: 22}
+    - name: downloadWithStick_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22}
+        - {x: -15, y: 21}
+        - {x: -15, y: -32}
+        - {x: 7, y: -32}
+        - {x: 13, y: -16}
+        - {x: 13, y: 17}
+        - {x: 10, y: 22}
+    - name: downloadWithStick_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 22}
+        - {x: -13, y: 22}
+        - {x: -14, y: 20}
+        - {x: -14, y: -26}
+        - {x: -8, y: -32}
+        - {x: 7, y: -32}
+        - {x: 10, y: -30}
+        - {x: 13, y: -17}
+        - {x: 13, y: 15}
+    - name: downloadWithStick_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 19}
+        - {x: -8, y: 19}
+        - {x: -17, y: 14}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 15}
+    - name: downloadWithStick_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -15, y: 14}
+        - {x: -15, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 14}
+        - {x: 6, y: 18}
+    - name: downloadWithStick_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18}
+        - {x: -16, y: 7}
+        - {x: -16, y: -31}
+        - {x: -13, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 15}
+        - {x: 9, y: 18}
+    - name: downloadWithStick_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -24, y: 3}
+        - {x: -25, y: 0}
+        - {x: -25, y: -6}
+        - {x: -13, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -30}
+        - {x: 16, y: 15}
+        - {x: 8, y: 19}
+    - name: downloadWithStick_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -15, y: 10}
+        - {x: -16, y: 2}
+        - {x: -16, y: -23}
+        - {x: -15, y: -32}
+        - {x: 17, y: -32}
+        - {x: 18, y: -31}
+        - {x: 32, y: 2}
+        - {x: 32, y: 20}
+    - name: downloadWithStick_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -16, y: 3}
+        - {x: -16, y: -29}
+        - {x: -15, y: -32}
+        - {x: 28, y: -32}
+        - {x: 32, y: -13}
+        - {x: 32, y: 19}
+    - name: downloadWithStick_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 22}
+        - {x: -26, y: 6}
+        - {x: -26, y: -26}
+        - {x: -25, y: -26}
+        - {x: -21, y: -25}
+        - {x: -12, y: -29}
+        - {x: -7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 19}
+        - {x: 10, y: 22}
+    - name: downloadWithStick_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -17, y: 20}
+        - {x: -17, y: -32}
+        - {x: 11, y: -32}
+        - {x: 12, y: -29}
+        - {x: 12, y: 10}
+    - name: downloadWithStick_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -13, y: 18}
+        - {x: -15, y: 12}
+        - {x: -15, y: -17}
+        - {x: -13, y: -32}
+        - {x: 11, y: -32}
+        - {x: 14, y: -28}
+        - {x: 14, y: 5}
+        - {x: 9, y: 22}
+    - name: downloadWithStick_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 22}
+        - {x: -23, y: 14}
+        - {x: -23, y: -24}
+        - {x: -15, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -26}
+        - {x: 15, y: 5}
+        - {x: 11, y: 22}
+    - name: downloadWithStick_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22}
+        - {x: -32, y: 14}
+        - {x: -32, y: -16}
+        - {x: -25, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 19}
+        - {x: 6, y: 22}
+    - name: downloadWithStick_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22}
+        - {x: -32, y: 20}
+        - {x: -32, y: 0}
+        - {x: -21, y: -6}
+        - {x: -12, y: -31}
+        - {x: -8, y: -32}
+        - {x: 10, y: -32}
+        - {x: 14, y: -26}
+        - {x: 14, y: 22}
+    - name: downloadWithStick_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -17, y: 2}
+        - {x: -17, y: -27}
+        - {x: -16, y: -31}
+        - {x: -14, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 14}
+        - {x: 8, y: 20}
+    - name: downloadWithStick_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 18}
+        - {x: 14, y: 20}
+        - {x: -11, y: 20}
+        - {x: -17, y: 1}
+        - {x: -17, y: -26}
+        - {x: -13, y: -32}
+        - {x: 15, y: -32}
+    - name: downloadWithStick_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18}
+        - {x: -19, y: 2}
+        - {x: -19, y: -32}
+        - {x: 15, y: -32}
+        - {x: 15, y: 2}
+        - {x: 14, y: 10}
+        - {x: 7, y: 18}
+    - name: downloadWithStick_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -14, y: 14}
+        - {x: -14, y: -32}
+        - {x: 9, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: 13}
+        - {x: 11, y: 19}
+    - name: downloadWithStick_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 20}
+        - {x: -5, y: 20}
+        - {x: -11, y: 10}
+        - {x: -13, y: -8}
+        - {x: -14, y: -23}
+        - {x: -14, y: -32}
+        - {x: 20, y: -32}
+        - {x: 24, y: -31}
+        - {x: 29, y: -31}
+        - {x: 29, y: -12}
+        - {x: 21, y: 14}
+    - name: downloadWithStick_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 20}
+        - {x: -11, y: 16}
+        - {x: -15, y: -4}
+        - {x: -15, y: -28}
+        - {x: -14, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 20}
+    - name: downloadWithStick_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -13, y: 16}
+        - {x: -13, y: -32}
+        - {x: 23, y: -32}
+        - {x: 26, y: -31}
+        - {x: 26, y: -13}
+        - {x: 10, y: 22}
+    - name: downloadWithStick_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 20}
+        - {x: -7, y: 20}
+        - {x: -12, y: 10}
+        - {x: -11, y: 3}
+        - {x: -12, y: -2}
+        - {x: -12, y: -31}
+        - {x: -8, y: -32}
+        - {x: 12, y: -32}
+        - {x: 16, y: -31}
+        - {x: 17, y: -30}
+        - {x: 17, y: 13}
+    - name: downloadWithStick_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 22}
+        - {x: -13, y: 13}
+        - {x: -14, y: 7}
+        - {x: -14, y: -24}
+        - {x: -11, y: -30}
+        - {x: -9, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -27}
+        - {x: 15, y: 17}
+        - {x: 9, y: 22}
+    - name: downloadWithStick_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 22}
+        - {x: -9, y: 22}
+        - {x: -15, y: -1}
+        - {x: -15, y: -25}
+        - {x: -10, y: -32}
+        - {x: 2, y: -32}
+        - {x: 15, y: -29}
+        - {x: 23, y: -19}
+        - {x: 23, y: -3}
+        - {x: 21, y: 6}
+    - name: downloadWithStick_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 22}
+        - {x: -13, y: 13}
+        - {x: -14, y: 7}
+        - {x: -14, y: -25}
+        - {x: -10, y: -32}
+        - {x: 15, y: -32}
+        - {x: 32, y: -10}
+        - {x: 32, y: 9}
+        - {x: 10, y: 22}
+    - name: downloadWithStick_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22}
+        - {x: -14, y: 10}
+        - {x: -14, y: -28}
+        - {x: -12, y: -31}
+        - {x: -11, y: -32}
+        - {x: 15, y: -32}
+        - {x: 32, y: -14}
+        - {x: 32, y: 14}
+        - {x: 11, y: 22}
+    - name: downloadWithStick_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 19}
+        - {x: -18, y: 3}
+        - {x: -18, y: -27}
+        - {x: -17, y: -31}
+        - {x: -15, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 18}
+        - {x: 10, y: 19}
+    - name: downloadWithStick_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 18}
+        - {x: -15, y: -20}
+        - {x: -11, y: -32}
+        - {x: 14, y: -32}
+        - {x: 15, y: -31}
+        - {x: 15, y: 9}
+        - {x: 12, y: 18}
+    - name: downloadWithStick_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -13, y: 16}
+        - {x: -13, y: -28}
+        - {x: -5, y: -32}
+        - {x: 13, y: -32}
+        - {x: 13, y: 13}
+        - {x: 9, y: 19}
+    - name: downloadWithStick_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -14, y: 17}
+        - {x: -14, y: -27}
+        - {x: -5, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 14}
+        - {x: 10, y: 19}
+    - name: downloadWithStick_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -14, y: 15}
+        - {x: -14, y: -3}
+        - {x: -11, y: -25}
+        - {x: -6, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 14}
+        - {x: 11, y: 19}
+    - name: downloadWithStick_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -14, y: 16}
+        - {x: -14, y: -5}
+        - {x: -11, y: -25}
+        - {x: -4, y: -32}
+        - {x: 13, y: -32}
+        - {x: 15, y: -28}
+        - {x: 15, y: 11}
+        - {x: 9, y: 19}
+    - name: downloadWithStick_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -10, y: 19}
+        - {x: -14, y: 16}
+        - {x: -14, y: -13}
+        - {x: -13, y: -26}
+        - {x: -5, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -25}
+        - {x: 16, y: 16}
+    - name: downloadWithStick_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 19}
+        - {x: -14, y: 16}
+        - {x: -14, y: -5}
+        - {x: -11, y: -25}
+        - {x: -6, y: -32}
+        - {x: 13, y: -32}
+        - {x: 17, y: -18}
+        - {x: 17, y: 3}
+        - {x: 8, y: 19}
+    - name: downloadWithStick_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -11, y: 19}
+        - {x: -14, y: 16}
+        - {x: -14, y: -13}
+        - {x: -13, y: -26}
+        - {x: -7, y: -32}
+        - {x: 13, y: -32}
+        - {x: 18, y: -15}
+        - {x: 18, y: 2}
+        - {x: 15, y: 15}
+    - name: downloadWithStick_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 19}
+        - {x: -11, y: 19}
+        - {x: -14, y: 16}
+        - {x: -14, y: -29}
+        - {x: -7, y: -32}
+        - {x: 11, y: -32}
+        - {x: 17, y: -17}
+        - {x: 17, y: 6}
+        - {x: 15, y: 15}
+    - name: downloadWithStick_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -14, y: 17}
+        - {x: -14, y: -27}
+        - {x: -5, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 14}
+        - {x: 10, y: 19}
+    - name: downloadWithStick_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 19}
+        - {x: -14, y: 15}
+        - {x: -14, y: -4}
+        - {x: -11, y: -25}
+        - {x: -6, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 19}
+    - name: downloadWithStick_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -14, y: 17}
+        - {x: -14, y: -27}
+        - {x: -5, y: -32}
+        - {x: 12, y: -32}
+        - {x: 12, y: 14}
+        - {x: 10, y: 19}
+    - name: downloadWithStick_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 22}
+        - {x: -9, y: 22}
+        - {x: -12, y: 20}
+        - {x: -12, y: -32}
+        - {x: 9, y: -32}
+        - {x: 11, y: -28}
+        - {x: 14, y: -23}
+        - {x: 14, y: 14}
+    - name: downloadWithStick_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -30}
+        - {x: -12, y: -32}
+        - {x: 11, y: -32}
+        - {x: 15, y: -27}
+        - {x: 15, y: 19}
+        - {x: 14, y: 22}
+        - {x: -9, y: 22}
+        - {x: -14, y: 12}
+    - name: downloadWithStick_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 22}
+        - {x: -19, y: 11}
+        - {x: -19, y: -29}
+        - {x: -16, y: -32}
+        - {x: 12, y: -32}
+        - {x: 17, y: -21}
+        - {x: 17, y: 7}
+        - {x: 11, y: 22}
+    - name: downloadWithStick_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 22}
+        - {x: -9, y: 22}
+        - {x: -21, y: 0}
+        - {x: -21, y: -22}
+        - {x: -9, y: -31}
+        - {x: 2, y: -32}
+        - {x: 11, y: -32}
+        - {x: 13, y: -29}
+        - {x: 18, y: -16}
+        - {x: 18, y: 2}
+    - name: downloadWithStick_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 22}
+        - {x: -7, y: 22}
+        - {x: -21, y: 8}
+        - {x: -21, y: -17}
+        - {x: -15, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -30}
+        - {x: 18, y: -21}
+        - {x: 18, y: 9}
+    - name: downloadWithStick_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 22}
+        - {x: -22, y: 16}
+        - {x: -22, y: -11}
+        - {x: -14, y: -30}
+        - {x: -8, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 22}
+    - name: downloadWithStick_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 22}
+        - {x: -22, y: 10}
+        - {x: -22, y: -7}
+        - {x: -10, y: -32}
+        - {x: 13, y: -32}
+        - {x: 16, y: -31}
+        - {x: 16, y: 17}
+        - {x: 11, y: 22}
+    - name: downloadWithStick_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 22}
+        - {x: -7, y: 22}
+        - {x: -21, y: 8}
+        - {x: -21, y: -16}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 19, y: -25}
+        - {x: 19, y: 10}
+        - {x: 17, y: 14}
+    - name: downloadWithStick_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 22}
+        - {x: -21, y: 4}
+        - {x: -21, y: -9}
+        - {x: -14, y: -30}
+        - {x: -8, y: -32}
+        - {x: 16, y: -32}
+        - {x: 21, y: -17}
+        - {x: 21, y: 8}
+        - {x: 11, y: 22}
+    - name: downloadWithStick_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 22}
+        - {x: -7, y: 22}
+        - {x: -21, y: 8}
+        - {x: -21, y: -17}
+        - {x: -15, y: -32}
+        - {x: 12, y: -32}
+        - {x: 14, y: -30}
+        - {x: 18, y: -21}
+        - {x: 18, y: 9}
+    - name: downloadWithStick_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 22}
+        - {x: -10, y: 22}
+        - {x: -21, y: 9}
+        - {x: -21, y: -17}
+        - {x: -15, y: -31}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 14, y: -30}
+        - {x: 17, y: -18}
+        - {x: 17, y: 5}
+    - name: downloadWithStick_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 22}
+        - {x: -21, y: 9}
+        - {x: -21, y: -11}
+        - {x: -11, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 21}
+        - {x: 11, y: 22}
+    - name: downloadWithStick_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 22}
+        - {x: -10, y: 22}
+        - {x: -21, y: 9}
+        - {x: -21, y: -17}
+        - {x: -15, y: -31}
+        - {x: -11, y: -32}
+        - {x: 13, y: -32}
+        - {x: 14, y: -30}
+        - {x: 17, y: -18}
+        - {x: 17, y: 5}
+    - name: downloadWithStick_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -32}
+        - {x: 16, y: -32}
+        - {x: 16, y: 14}
+        - {x: 7, y: 20}
+        - {x: -9, y: 20}
+        - {x: -15, y: 10}
+        - {x: -18, y: -4}
+        - {x: -18, y: -23}
+        - {x: -17, y: -31}
+        - {x: -13, y: -32}
+        - {x: -4, y: -32}
+        - {x: -2, y: -28}
+        - {x: -2, y: -24}
+        - {x: 0, y: -28}
+    - name: downloadWithStick_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -16, y: 18}
+        - {x: -16, y: -26}
+        - {x: -15, y: -31}
+        - {x: 13, y: -31}
+        - {x: 13, y: 19}
+        - {x: 12, y: 20}
+    - name: downloadWithStick_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -16, y: 12}
+        - {x: -16, y: -18}
+        - {x: -11, y: -30}
+        - {x: -9, y: -31}
+        - {x: 8, y: -31}
+        - {x: 12, y: -22}
+        - {x: 12, y: 12}
+        - {x: 7, y: 20}
+    - name: downloadWithStick_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -16, y: 11}
+        - {x: -16, y: -22}
+        - {x: -8, y: -32}
+        - {x: 7, y: -32}
+        - {x: 10, y: -31}
+        - {x: 12, y: -2}
+        - {x: 12, y: 12}
+        - {x: 7, y: 20}
+    - name: downloadWithStick_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -11, y: 20}
+        - {x: -15, y: 19}
+        - {x: -15, y: -18}
+        - {x: -14, y: -28}
+        - {x: -6, y: -32}
+        - {x: 5, y: -32}
+        - {x: 9, y: -30}
+        - {x: 12, y: -9}
+        - {x: 12, y: 15}
+    - name: downloadWithStick_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 20}
+        - {x: -7, y: 20}
+        - {x: -14, y: 16}
+        - {x: -15, y: 1}
+        - {x: -15, y: -7}
+        - {x: -12, y: -27}
+        - {x: -5, y: -32}
+        - {x: 5, y: -32}
+        - {x: 9, y: -30}
+        - {x: 12, y: -11}
+        - {x: 12, y: 16}
+    - name: downloadWithStick_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -15, y: 15}
+        - {x: -15, y: -21}
+        - {x: -10, y: -32}
+        - {x: 6, y: -32}
+        - {x: 9, y: -30}
+        - {x: 12, y: -4}
+        - {x: 12, y: 14}
+        - {x: 7, y: 20}
+    - name: downloadWithStick_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -15, y: 11}
+        - {x: -16, y: 4}
+        - {x: -16, y: -4}
+        - {x: -12, y: -27}
+        - {x: -7, y: -32}
+        - {x: 5, y: -32}
+        - {x: 10, y: -31}
+        - {x: 12, y: -8}
+        - {x: 12, y: 13}
+        - {x: 7, y: 20}
+    - name: downloadWithStick_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 20}
+        - {x: -14, y: 20}
+        - {x: -16, y: 19}
+        - {x: -16, y: -30}
+        - {x: -8, y: -32}
+        - {x: 5, y: -32}
+        - {x: 9, y: -30}
+        - {x: 12, y: -9}
+    - name: downloadWithStick_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -11, y: 20}
+        - {x: -15, y: 19}
+        - {x: -15, y: -18}
+        - {x: -14, y: -28}
+        - {x: -6, y: -32}
+        - {x: 5, y: -32}
+        - {x: 9, y: -30}
+        - {x: 12, y: -9}
+        - {x: 12, y: 15}
+    - name: downloadWithStick_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -13, y: 20}
+        - {x: -16, y: 9}
+        - {x: -16, y: -21}
+        - {x: -12, y: -27}
+        - {x: -5, y: -32}
+        - {x: 5, y: -32}
+        - {x: 9, y: -30}
+        - {x: 12, y: -9}
+        - {x: 12, y: 15}
+    - name: downloadWithStick_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -14, y: 16}
+        - {x: -14, y: -28}
+        - {x: -8, y: -32}
+        - {x: 5, y: -32}
+        - {x: 10, y: -31}
+        - {x: 12, y: -16}
+        - {x: 12, y: 15}
+        - {x: 7, y: 20}
+    - name: downloadWithStick_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 20}
+        - {x: -13, y: 20}
+        - {x: -16, y: 9}
+        - {x: -16, y: -21}
+        - {x: -12, y: -27}
+        - {x: -5, y: -32}
+        - {x: 5, y: -32}
+        - {x: 9, y: -30}
+        - {x: 12, y: -9}
+        - {x: 12, y: 15}
+    - name: downloadWithStick_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22}
+        - {x: -14, y: -29}
+        - {x: -11, y: -32}
+        - {x: 4, y: -32}
+        - {x: 12, y: -30}
+        - {x: 12, y: 22}
+    - name: downloadWithStick_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 22}
+        - {x: -15, y: 20}
+        - {x: -15, y: -32}
+        - {x: 14, y: -32}
+        - {x: 14, y: 19}
+        - {x: 12, y: 22}
+    - name: downloadWithStick_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 22}
+        - {x: -17, y: 10}
+        - {x: -17, y: -23}
+        - {x: -14, y: -30}
+        - {x: -11, y: -32}
+        - {x: 2, y: -32}
+        - {x: 13, y: -30}
+        - {x: 19, y: -19}
+        - {x: 19, y: 1}
+        - {x: 10, y: 22}
+    - name: downloadWithStick_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 22}
+        - {x: -18, y: 9}
+        - {x: -18, y: -25}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -23}
+        - {x: 21, y: 0}
+        - {x: 8, y: 22}
+    - name: downloadWithStick_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22}
+        - {x: -18, y: 8}
+        - {x: -18, y: -17}
+        - {x: -15, y: -26}
+        - {x: -12, y: -32}
+        - {x: 1, y: -32}
+        - {x: 13, y: -30}
+        - {x: 21, y: -9}
+        - {x: 21, y: 4}
+        - {x: 7, y: 22}
+    - name: downloadWithStick_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 7}
+        - {x: 9, y: 22}
+        - {x: -7, y: 22}
+        - {x: -9, y: 21}
+        - {x: -14, y: 16}
+        - {x: -14, y: -27}
+        - {x: -12, y: -32}
+        - {x: -2, y: -32}
+        - {x: 8, y: -30}
+        - {x: 12, y: -29}
+        - {x: 22, y: -7}
+    - name: downloadWithStick_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 10}
+        - {x: 9, y: 22}
+        - {x: -12, y: 22}
+        - {x: -16, y: 16}
+        - {x: -16, y: -29}
+        - {x: -14, y: -32}
+        - {x: 2, y: -32}
+        - {x: 8, y: -30}
+        - {x: 10, y: -28}
+        - {x: 10, y: -25}
+        - {x: 22, y: -7}
+    - name: downloadWithStick_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -19, y: 18}
+        - {x: -19, y: -13}
+        - {x: -13, y: -32}
+        - {x: 12, y: -32}
+        - {x: 21, y: -17}
+        - {x: 21, y: 8}
+        - {x: 13, y: 22}
+    - name: downloadWithStick_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22}
+        - {x: -21, y: 6}
+        - {x: -21, y: -10}
+        - {x: -13, y: -32}
+        - {x: 19, y: -32}
+        - {x: 21, y: -21}
+        - {x: 21, y: 14}
+        - {x: 9, y: 22}
+    - name: downloadWithStick_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22}
+        - {x: -18, y: 8}
+        - {x: -18, y: -17}
+        - {x: -15, y: -26}
+        - {x: -12, y: -32}
+        - {x: 1, y: -32}
+        - {x: 13, y: -30}
+        - {x: 21, y: -9}
+        - {x: 21, y: 4}
+        - {x: 7, y: 22}
+    - name: downloadWithStick_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -17, y: 19}
+        - {x: -17, y: -18}
+        - {x: -13, y: -32}
+        - {x: 16, y: -32}
+        - {x: 21, y: -13}
+        - {x: 21, y: 7}
+        - {x: 12, y: 22}
+    - name: downloadWithStick_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 22}
+        - {x: -10, y: 22}
+        - {x: -14, y: 16}
+        - {x: -14, y: -27}
+        - {x: -12, y: -32}
+        - {x: 1, y: -32}
+        - {x: 13, y: -30}
+        - {x: 21, y: -6}
+        - {x: 21, y: 2}
+        - {x: 10, y: 18}
+    - name: downloadWithStick_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -17, y: 19}
+        - {x: -17, y: -18}
+        - {x: -13, y: -32}
+        - {x: 16, y: -32}
+        - {x: 21, y: -13}
+        - {x: 21, y: 7}
+        - {x: 12, y: 22}
+    - name: downloadWithStick_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 14}
+        - {x: 8, y: 20}
+        - {x: -8, y: 20}
+        - {x: -14, y: 10}
+        - {x: -17, y: -4}
+        - {x: -17, y: -23}
+        - {x: -16, y: -31}
+        - {x: -12, y: -32}
+        - {x: -3, y: -32}
+        - {x: -1, y: -28}
+        - {x: -1, y: -24}
+        - {x: 1, y: -28}
+    - name: downloadWithStick_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -16, y: -7}
+        - {x: -16, y: -25}
+        - {x: -9, y: -31}
+        - {x: -3, y: -32}
+        - {x: 15, y: -32}
+        - {x: 19, y: -29}
+        - {x: 19, y: 19}
+    - name: downloadWithStick_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -15, y: 4}
+        - {x: -15, y: -32}
+        - {x: 13, y: -32}
+        - {x: 19, y: -28}
+        - {x: 19, y: -1}
+        - {x: 18, y: 5}
+        - {x: 8, y: 13}
+    - name: downloadWithStick_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 9}
+        - {x: -15, y: -7}
+        - {x: -15, y: -31}
+        - {x: 16, y: -31}
+        - {x: 19, y: -30}
+        - {x: 19, y: -8}
+        - {x: 14, y: 9}
+    - name: downloadWithStick_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 3}
+        - {x: -15, y: -4}
+        - {x: -15, y: -31}
+        - {x: 20, y: -31}
+        - {x: 20, y: -3}
+        - {x: 14, y: 3}
+    - name: downloadWithStick_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 6}
+        - {x: -16, y: 0}
+        - {x: -16, y: -32}
+        - {x: 22, y: -32}
+        - {x: 22, y: 1}
+        - {x: 18, y: 6}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
