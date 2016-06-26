@@ -26,29 +26,26 @@ public class RoomBuilder : MonoBehaviour {
     public Transform leftCorner;
     public Transform rightCorner;
 
-    private float currentTop;
-    private float currentLeft;
-
 	// Use this for initialization
 	void Start () {
 
         // first build the floor based on the tile settings
-        float x = roomLeft;
-        float y = roomTop;
+        float currentLeft = roomLeft;
+        float currentTop = roomTop;
         bool first = true;
         for (int row = 0; row < tilesRight; ++row) {
             for (int col = 0; col < tilesDown; ++col) {
 
                 // add walls around the edges of the room (if needed)
-                addWalls(row, col, x, y);
+                addWalls(row, col, currentLeft, currentTop);
 
                 // floor tile
-                Instantiate((first ? floorTile1: floorTile2), new Vector3(x, y, 0), Quaternion.identity);
-                y -= FLOOR_WIDTH;
+                Instantiate((first ? floorTile1: floorTile2), new Vector3(currentLeft, currentTop, 0), Quaternion.identity);
+                currentTop -= FLOOR_WIDTH;
                 first = !first;
             }
-            x += FLOOR_WIDTH;
-            y = roomTop;
+            currentLeft += FLOOR_WIDTH;
+            currentTop = roomTop;
             first = !first;
         }
 	}
