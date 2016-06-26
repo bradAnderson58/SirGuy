@@ -1,7 +1,41 @@
 fileFormatVersion: 2
 guid: ffa5b40d1027f6d4582d339a4f24dfd8
+timeCreated: 1466885018
+licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: steampunk_celuna_pipesClocksChests_0
+    21300002: steampunk_celuna_pipesClocksChests_1
+    21300004: steampunk_celuna_pipesClocksChests_2
+    21300006: steampunk_celuna_pipesClocksChests_3
+    21300008: steampunk_celuna_pipesClocksChests_4
+    21300010: steampunk_celuna_pipesClocksChests_5
+    21300012: steampunk_celuna_pipesClocksChests_6
+    21300014: steampunk_celuna_pipesClocksChests_7
+    21300016: steampunk_celuna_pipesClocksChests_8
+    21300018: steampunk_celuna_pipesClocksChests_9
+    21300020: steampunk_celuna_pipesClocksChests_10
+    21300022: steampunk_celuna_pipesClocksChests_11
+    21300024: steampunk_celuna_pipesClocksChests_12
+    21300026: steampunk_celuna_pipesClocksChests_13
+    21300028: steampunk_celuna_pipesClocksChests_14
+    21300030: steampunk_celuna_pipesClocksChests_15
+    21300032: steampunk_celuna_pipesClocksChests_16
+    21300034: steampunk_celuna_pipesClocksChests_17
+    21300036: steampunk_celuna_pipesClocksChests_18
+    21300038: steampunk_celuna_pipesClocksChests_19
+    21300040: steampunk_celuna_pipesClocksChests_20
+    21300042: steampunk_celuna_pipesClocksChests_21
+    21300044: steampunk_celuna_pipesClocksChests_22
+    21300046: steampunk_celuna_pipesClocksChests_23
+    21300048: steampunk_celuna_pipesClocksChests_24
+    21300050: steampunk_celuna_pipesClocksChests_25
+    21300052: steampunk_celuna_pipesClocksChests_26
+    21300054: steampunk_celuna_pipesClocksChests_27
+    21300056: steampunk_celuna_pipesClocksChests_28
+    21300058: steampunk_celuna_pipesClocksChests_29
+    21300060: steampunk_celuna_pipesClocksChests_30
+    21300062: steampunk_celuna_pipesClocksChests_31
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -15,33 +49,447 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
   generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 1024
+  maxTextureSize: 8192
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
-    wrapMode: -1
-  nPOTScale: 1
+    wrapMode: 1
+  nPOTScale: 0
   lightmap: 0
+  rGBM: 0
   compressionQuality: 50
-  spriteMode: 0
+  allowsAlphaSplitting: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 100
-  alphaIsTransparency: 0
-  textureType: -1
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: steampunk_celuna_pipesClocksChests_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 378
+        width: 161
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 25}
+        - {x: -80.5, y: -25}
+        - {x: 80.5, y: -25}
+        - {x: 80.5, y: 25}
+    - name: steampunk_celuna_pipesClocksChests_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 354
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 354
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 354
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 354
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 354
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 354
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 354
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_8
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 354
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 354
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 354
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 354
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 354
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 269
+        width: 512
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 127, y: -32.5}
+        - {x: 256, y: -32.5}
+        - {x: 256, y: 33.5}
+        - {x: -256, y: 33.5}
+        - {x: -256, y: -32.5}
+        - {x: -124, y: -32.5}
+        - {x: -123, y: -33.5}
+        - {x: -12, y: -33.5}
+        - {x: 33, y: -32.5}
+        - {x: 33, y: -33.5}
+        - {x: 126, y: -33.5}
+    - name: steampunk_celuna_pipesClocksChests_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 230
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 228
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 228
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 233
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 150
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 46}
+        - {x: -24.5, y: 46}
+        - {x: -34.5, y: 17}
+        - {x: -34.5, y: -46}
+        - {x: 34.5, y: -46}
+        - {x: 34.5, y: -17}
+        - {x: 31.5, y: -5}
+    - name: steampunk_celuna_pipesClocksChests_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 150
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 46}
+        - {x: -24.5, y: 46}
+        - {x: -34.5, y: 17}
+        - {x: -34.5, y: -46}
+        - {x: 34.5, y: -46}
+        - {x: 34.5, y: -17}
+        - {x: 31.5, y: -5}
+    - name: steampunk_celuna_pipesClocksChests_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 150
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 46}
+        - {x: -24.5, y: 46}
+        - {x: -34.5, y: 17}
+        - {x: -34.5, y: -46}
+        - {x: 34.5, y: -46}
+        - {x: 34.5, y: -17}
+        - {x: 31.5, y: -5}
+    - name: steampunk_celuna_pipesClocksChests_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 200
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 201
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 201
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 148
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 148
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 36}
+        - {x: -14.5, y: 32}
+        - {x: -16.5, y: 11}
+        - {x: -16.5, y: -36}
+        - {x: 16.5, y: -36}
+        - {x: 16.5, y: 34}
+        - {x: 10.5, y: 36}
+    - name: steampunk_celuna_pipesClocksChests_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 146
+        width: 32
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 36.5}
+        - {x: -9, y: 36.5}
+        - {x: -16, y: 23.5}
+        - {x: -16, y: -36.5}
+        - {x: 16, y: -36.5}
+        - {x: 16, y: 22.5}
+        - {x: 13, y: 29.5}
+    - name: steampunk_celuna_pipesClocksChests_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 169
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 170
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 171
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_pipesClocksChests_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 122
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 63}
+        - {x: -61, y: -63}
+        - {x: 61, y: -63}
+        - {x: 61, y: 63}
+    - name: steampunk_celuna_pipesClocksChests_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 34
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
   spritePackingTag: 
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

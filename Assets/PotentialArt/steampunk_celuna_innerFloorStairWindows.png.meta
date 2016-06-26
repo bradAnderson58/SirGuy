@@ -1,7 +1,96 @@
 fileFormatVersion: 2
 guid: 513f163cae514354c9229e1d6eac5cda
+timeCreated: 1466882450
+licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: steampunk_celuna_innerFloorStairWindows_0
+    21300002: steampunk_celuna_innerFloorStairWindows_1
+    21300004: steampunk_celuna_innerFloorStairWindows_2
+    21300006: steampunk_celuna_innerFloorStairWindows_3
+    21300008: steampunk_celuna_innerFloorStairWindows_4
+    21300010: steampunk_celuna_innerFloorStairWindows_5
+    21300012: steampunk_celuna_innerFloorStairWindows_6
+    21300014: steampunk_celuna_innerFloorStairWindows_7
+    21300016: steampunk_celuna_innerFloorStairWindows_8
+    21300018: steampunk_celuna_innerFloorStairWindows_9
+    21300020: steampunk_celuna_innerFloorStairWindows_10
+    21300022: steampunk_celuna_innerFloorStairWindows_11
+    21300024: steampunk_celuna_innerFloorStairWindows_12
+    21300026: steampunk_celuna_innerFloorStairWindows_13
+    21300028: steampunk_celuna_innerFloorStairWindows_14
+    21300030: steampunk_celuna_innerFloorStairWindows_15
+    21300032: steampunk_celuna_innerFloorStairWindows_16
+    21300034: steampunk_celuna_innerFloorStairWindows_17
+    21300036: steampunk_celuna_innerFloorStairWindows_18
+    21300038: steampunk_celuna_innerFloorStairWindows_19
+    21300040: steampunk_celuna_innerFloorStairWindows_20
+    21300042: steampunk_celuna_innerFloorStairWindows_21
+    21300044: steampunk_celuna_innerFloorStairWindows_22
+    21300046: steampunk_celuna_innerFloorStairWindows_23
+    21300048: steampunk_celuna_innerFloorStairWindows_24
+    21300050: steampunk_celuna_innerFloorStairWindows_25
+    21300052: steampunk_celuna_innerFloorStairWindows_26
+    21300054: steampunk_celuna_innerFloorStairWindows_27
+    21300056: steampunk_celuna_innerFloorStairWindows_28
+    21300058: steampunk_celuna_innerFloorStairWindows_29
+    21300060: steampunk_celuna_innerFloorStairWindows_30
+    21300062: steampunk_celuna_innerFloorStairWindows_31
+    21300064: steampunk_celuna_innerFloorStairWindows_32
+    21300066: steampunk_celuna_innerFloorStairWindows_33
+    21300068: steampunk_celuna_innerFloorStairWindows_34
+    21300070: steampunk_celuna_innerFloorStairWindows_35
+    21300072: steampunk_celuna_innerFloorStairWindows_36
+    21300074: steampunk_celuna_innerFloorStairWindows_37
+    21300076: steampunk_celuna_innerFloorStairWindows_38
+    21300078: steampunk_celuna_innerFloorStairWindows_39
+    21300080: steampunk_celuna_innerFloorStairWindows_40
+    21300082: steampunk_celuna_innerFloorStairWindows_41
+    21300084: steampunk_celuna_innerFloorStairWindows_42
+    21300086: steampunk_celuna_innerFloorStairWindows_43
+    21300088: steampunk_celuna_innerFloorStairWindows_44
+    21300090: steampunk_celuna_innerFloorStairWindows_45
+    21300092: steampunk_celuna_innerFloorStairWindows_46
+    21300094: steampunk_celuna_innerFloorStairWindows_47
+    21300096: steampunk_celuna_innerFloorStairWindows_48
+    21300098: steampunk_celuna_innerFloorStairWindows_49
+    21300100: steampunk_celuna_innerFloorStairWindows_50
+    21300102: steampunk_celuna_innerFloorStairWindows_51
+    21300104: steampunk_celuna_innerFloorStairWindows_52
+    21300106: steampunk_celuna_innerFloorStairWindows_53
+    21300108: steampunk_celuna_innerFloorStairWindows_54
+    21300110: steampunk_celuna_innerFloorStairWindows_55
+    21300112: steampunk_celuna_innerFloorStairWindows_56
+    21300114: steampunk_celuna_innerFloorStairWindows_57
+    21300116: steampunk_celuna_innerFloorStairWindows_58
+    21300118: steampunk_celuna_innerFloorStairWindows_59
+    21300120: steampunk_celuna_innerFloorStairWindows_60
+    21300122: steampunk_celuna_innerFloorStairWindows_61
+    21300124: steampunk_celuna_innerFloorStairWindows_62
+    21300126: steampunk_celuna_innerFloorStairWindows_63
+    21300128: steampunk_celuna_innerFloorStairWindows_64
+    21300130: steampunk_celuna_innerFloorStairWindows_65
+    21300132: steampunk_celuna_innerFloorStairWindows_66
+    21300134: steampunk_celuna_innerFloorStairWindows_67
+    21300136: steampunk_celuna_innerFloorStairWindows_68
+    21300138: steampunk_celuna_innerFloorStairWindows_69
+    21300140: steampunk_celuna_innerFloorStairWindows_70
+    21300142: steampunk_celuna_innerFloorStairWindows_71
+    21300144: steampunk_celuna_innerFloorStairWindows_72
+    21300146: steampunk_celuna_innerFloorStairWindows_73
+    21300148: steampunk_celuna_innerFloorStairWindows_74
+    21300150: steampunk_celuna_innerFloorStairWindows_75
+    21300152: steampunk_celuna_innerFloorStairWindows_76
+    21300154: steampunk_celuna_innerFloorStairWindows_77
+    21300156: steampunk_celuna_innerFloorStairWindows_78
+    21300158: steampunk_celuna_innerFloorStairWindows_79
+    21300160: steampunk_celuna_innerFloorStairWindows_80
+    21300162: steampunk_celuna_innerFloorStairWindows_81
+    21300164: steampunk_celuna_innerFloorStairWindows_82
+    21300166: steampunk_celuna_innerFloorStairWindows_83
+    21300168: steampunk_celuna_innerFloorStairWindows_84
+    21300170: steampunk_celuna_innerFloorStairWindows_85
+    21300172: steampunk_celuna_innerFloorStairWindows_86
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -15,33 +104,1267 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
   generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 1024
+  maxTextureSize: 8192
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
-    wrapMode: -1
-  nPOTScale: 1
+    wrapMode: 1
+  nPOTScale: 0
   lightmap: 0
+  rGBM: 0
   compressionQuality: 50
-  spriteMode: 0
+  allowsAlphaSplitting: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 100
-  alphaIsTransparency: 0
-  textureType: -1
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: steampunk_celuna_innerFloorStairWindows_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 584
+        width: 161
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 25}
+        - {x: -80.5, y: -25}
+        - {x: 80.5, y: -25}
+        - {x: 80.5, y: 25}
+    - name: steampunk_celuna_innerFloorStairWindows_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 555
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 555
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 555
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 555
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 555
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 496
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16}
+        - {x: -16.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 16}
+    - name: steampunk_celuna_innerFloorStairWindows_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 496
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 16}
+        - {x: -32, y: -16}
+        - {x: 32, y: -16}
+        - {x: 32, y: 16}
+    - name: steampunk_celuna_innerFloorStairWindows_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 496
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: steampunk_celuna_innerFloorStairWindows_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 496
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: steampunk_celuna_innerFloorStairWindows_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 496
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: steampunk_celuna_innerFloorStairWindows_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 496
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: steampunk_celuna_innerFloorStairWindows_12
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 496
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: steampunk_celuna_innerFloorStairWindows_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 496
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: steampunk_celuna_innerFloorStairWindows_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 496
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: steampunk_celuna_innerFloorStairWindows_15
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 496
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: steampunk_celuna_innerFloorStairWindows_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 496
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16}
+        - {x: -16.5, y: -16}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 16}
+    - name: steampunk_celuna_innerFloorStairWindows_17
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 491
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: steampunk_celuna_innerFloorStairWindows_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 419
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: steampunk_celuna_innerFloorStairWindows_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 419
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: steampunk_celuna_innerFloorStairWindows_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 419
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: steampunk_celuna_innerFloorStairWindows_21
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 419
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: steampunk_celuna_innerFloorStairWindows_22
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 419
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: steampunk_celuna_innerFloorStairWindows_23
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 419
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 32}
+        - {x: -48, y: -32}
+        - {x: 48, y: -32}
+        - {x: 48, y: 32}
+    - name: steampunk_celuna_innerFloorStairWindows_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 390
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 390
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 390
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 390
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 390
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_29
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 390
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 390
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 390
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 390
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 390
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_34
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 390
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_35
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 390
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_36
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 390
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_37
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 318
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 40.5}
+        - {x: -31, y: -8.5}
+        - {x: -31, y: -40.5}
+        - {x: -24, y: -40.5}
+        - {x: 31, y: 8.5}
+        - {x: 31, y: 40.5}
+      - - {x: 24, y: -4.5}
+        - {x: -7, y: -39.5}
+        - {x: -7, y: -40.5}
+        - {x: 26, y: -40.5}
+        - {x: 31, y: -38.5}
+        - {x: 31, y: -4.5}
+    - name: steampunk_celuna_innerFloorStairWindows_38
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 318
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -4.5}
+        - {x: -31, y: -38.5}
+        - {x: -26, y: -40.5}
+        - {x: -13, y: -40.5}
+        - {x: 7, y: -38.5}
+        - {x: -8, y: -23.5}
+        - {x: -24, y: -6.5}
+        - {x: -26, y: -4.5}
+      - - {x: -31, y: 40.5}
+        - {x: -31, y: 7.5}
+        - {x: 23, y: -40.5}
+        - {x: 31, y: -40.5}
+        - {x: 31, y: -8.5}
+        - {x: -24, y: 40.5}
+    - name: steampunk_celuna_innerFloorStairWindows_39
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 289
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 43.5}
+        - {x: -32, y: -43.5}
+        - {x: 32, y: -43.5}
+        - {x: 32, y: -2.5}
+        - {x: -21, y: 43.5}
+    - name: steampunk_celuna_innerFloorStairWindows_40
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 289
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 43.5}
+        - {x: -32, y: -43.5}
+        - {x: 32, y: -43.5}
+        - {x: 32, y: -2.5}
+        - {x: -21, y: 43.5}
+    - name: steampunk_celuna_innerFloorStairWindows_41
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 289
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 43.5}
+        - {x: -29, y: 4.5}
+        - {x: -32, y: -2.5}
+        - {x: -32, y: -43.5}
+        - {x: 32, y: -43.5}
+        - {x: 32, y: 43.5}
+    - name: steampunk_celuna_innerFloorStairWindows_42
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 289
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 43.5}
+        - {x: -29, y: 4.5}
+        - {x: -32, y: -2.5}
+        - {x: -32, y: -43.5}
+        - {x: 32, y: -43.5}
+        - {x: 32, y: 43.5}
+    - name: steampunk_celuna_innerFloorStairWindows_43
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 331
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 17}
+        - {x: -32, y: -17}
+        - {x: 32, y: -17}
+        - {x: 32, y: 17}
+    - name: steampunk_celuna_innerFloorStairWindows_44
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 271
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 40.5}
+        - {x: -31, y: -8.5}
+        - {x: -31, y: -40.5}
+        - {x: -24, y: -40.5}
+        - {x: 31, y: 8.5}
+        - {x: 31, y: 40.5}
+      - - {x: -25, y: 40.5}
+        - {x: -31, y: 38.5}
+        - {x: -31, y: 4.5}
+        - {x: -24, y: 4.5}
+        - {x: 10, y: 38.5}
+        - {x: 10, y: 40.5}
+    - name: steampunk_celuna_innerFloorStairWindows_45
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 271
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 40.5}
+        - {x: -31, y: 7.5}
+        - {x: 23, y: -40.5}
+        - {x: 31, y: -40.5}
+        - {x: 31, y: -8.5}
+        - {x: -24, y: 40.5}
+      - - {x: -10, y: 40.5}
+        - {x: -10, y: 32.5}
+        - {x: -7, y: 20.5}
+        - {x: 26, y: 4.5}
+        - {x: 31, y: 4.5}
+        - {x: 31, y: 38.5}
+        - {x: 25, y: 40.5}
+    - name: steampunk_celuna_innerFloorStairWindows_46
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 292
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 17}
+        - {x: -32, y: -17}
+        - {x: 32, y: -17}
+        - {x: 32, y: 17}
+    - name: steampunk_celuna_innerFloorStairWindows_47
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 196
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 43.5}
+        - {x: -32, y: -0.5}
+        - {x: 15, y: -43.5}
+        - {x: 32, y: -43.5}
+        - {x: 32, y: -2.5}
+        - {x: -21, y: 43.5}
+    - name: steampunk_celuna_innerFloorStairWindows_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 196
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 43.5}
+        - {x: -32, y: -0.5}
+        - {x: 15, y: -43.5}
+        - {x: 32, y: -43.5}
+        - {x: 32, y: -2.5}
+        - {x: -21, y: 43.5}
+    - name: steampunk_celuna_innerFloorStairWindows_49
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 196
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 13.5}
+        - {x: -32, y: -2.5}
+        - {x: -32, y: -43.5}
+        - {x: -15, y: -43.5}
+        - {x: 32, y: -0.5}
+        - {x: 32, y: 43.5}
+        - {x: 17, y: 43.5}
+        - {x: 12, y: 42.5}
+    - name: steampunk_celuna_innerFloorStairWindows_50
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 196
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 13.5}
+        - {x: -32, y: -2.5}
+        - {x: -32, y: -43.5}
+        - {x: -15, y: -43.5}
+        - {x: 32, y: -0.5}
+        - {x: 32, y: 43.5}
+        - {x: 17, y: 43.5}
+        - {x: 12, y: 42.5}
+    - name: steampunk_celuna_innerFloorStairWindows_51
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 277
+        width: 64
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_52
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 266
+        width: 65
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_53
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 255
+        width: 65
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_54
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 169
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 47}
+        - {x: -48, y: -47}
+        - {x: 48, y: -47}
+        - {x: 48, y: 47}
+      - - {x: -40, y: 14}
+        - {x: 41, y: 14}
+        - {x: 41, y: -16}
+        - {x: -40, y: -16}
+    - name: steampunk_celuna_innerFloorStairWindows_55
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 169
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 47}
+        - {x: -48, y: -47}
+        - {x: 48, y: -47}
+        - {x: 48, y: 47}
+      - - {x: -40, y: 14}
+        - {x: 41, y: 14}
+        - {x: 41, y: -16}
+        - {x: -40, y: -16}
+    - name: steampunk_celuna_innerFloorStairWindows_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 163
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_57
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 163
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 163
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_59
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 163
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 163
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_61
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 163
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_62
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 113
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 22}
+        - {x: -16, y: 19}
+        - {x: -16, y: -22}
+        - {x: 16, y: -22}
+        - {x: 16, y: 18}
+        - {x: 12, y: 22}
+    - name: steampunk_celuna_innerFloorStairWindows_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 113
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22}
+        - {x: -31, y: 13}
+        - {x: -31, y: -22}
+        - {x: 31, y: -22}
+        - {x: 31, y: 21}
+        - {x: 25, y: 22}
+    - name: steampunk_celuna_innerFloorStairWindows_64
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 114
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_65
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 114
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_66
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 114
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_67
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 112
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_68
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 111
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_69
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 112
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15.5}
+        - {x: -17, y: 13.5}
+        - {x: -17, y: -19.5}
+        - {x: -15, y: -20.5}
+        - {x: 15, y: -20.5}
+        - {x: 17, y: -15.5}
+        - {x: 17, y: 10.5}
+        - {x: 14, y: 15.5}
+      - - {x: 13, y: 18.5}
+        - {x: 13, y: 20.5}
+        - {x: 8, y: 20.5}
+        - {x: 10, y: 17.5}
+    - name: steampunk_celuna_innerFloorStairWindows_70
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 113
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 17}
+        - {x: -16.5, y: 11}
+        - {x: -16.5, y: -13}
+        - {x: -12.5, y: -17}
+        - {x: 10.5, y: -17}
+        - {x: 16.5, y: -13}
+        - {x: 16.5, y: 13}
+        - {x: 12.5, y: 17}
+    - name: steampunk_celuna_innerFloorStairWindows_71
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 116
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_72
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 116
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_73
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 59
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 22}
+        - {x: -16, y: 19}
+        - {x: -16, y: -22}
+        - {x: 16, y: -22}
+        - {x: 16, y: 18}
+        - {x: 12, y: 22}
+    - name: steampunk_celuna_innerFloorStairWindows_74
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 59
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 22}
+        - {x: -31, y: 13}
+        - {x: -31, y: -22}
+        - {x: 31, y: -22}
+        - {x: 31, y: 21}
+        - {x: 25, y: 22}
+    - name: steampunk_celuna_innerFloorStairWindows_75
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 60
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_76
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 60
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_77
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 60
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_78
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 58
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_79
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 57
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_80
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 58
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17}
+        - {x: -17, y: -17}
+        - {x: 16, y: -17}
+        - {x: 17, y: -13}
+        - {x: 17, y: 16}
+        - {x: 15, y: 17}
+    - name: steampunk_celuna_innerFloorStairWindows_81
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 59
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 17}
+        - {x: -16.5, y: 11}
+        - {x: -16.5, y: -17}
+        - {x: 14.5, y: -17}
+        - {x: 16.5, y: -14}
+        - {x: 16.5, y: 14}
+        - {x: 13.5, y: 17}
+    - name: steampunk_celuna_innerFloorStairWindows_82
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 63
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_83
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 63
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_innerFloorStairWindows_84
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 308
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -154, y: 24.5}
+        - {x: -154, y: -24.5}
+        - {x: 154, y: -24.5}
+        - {x: 154, y: 24.5}
+    - name: steampunk_celuna_innerFloorStairWindows_85
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 18}
+        - {x: -33.5, y: 18}
+        - {x: -33.5, y: -18}
+        - {x: 32.5, y: -18}
+        - {x: 33.5, y: -15}
+        - {x: 33.5, y: 6}
+        - {x: 27.5, y: 12}
+    - name: steampunk_celuna_innerFloorStairWindows_86
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 6
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
   spritePackingTag: 
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

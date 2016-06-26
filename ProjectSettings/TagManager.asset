@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - Door
+  - Item
   layers:
   - Default
   - TransparentFX
@@ -15,7 +17,7 @@ TagManager:
   - 
   - 
   - ColliderLayer
-  - 
+  - Floor
   - 
   - 
   - 
@@ -44,4 +46,10 @@ TagManager:
     locked: 0
   - name: Characters
     uniqueID: 3920943385
+    locked: 0
+  - name: Floor
+    uniqueID: 865767977
+    locked: 0
+  - name: Item
+    uniqueID: 2266278857
     locked: 0

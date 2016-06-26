@@ -1,7 +1,64 @@
 fileFormatVersion: 2
 guid: 98dc90cb93f55b34d8483ecacc61a317
+timeCreated: 1466886440
+licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: steampunk_celuna_furniture3_0
+    21300002: steampunk_celuna_furniture3_1
+    21300004: steampunk_celuna_furniture3_2
+    21300006: steampunk_celuna_furniture3_3
+    21300008: steampunk_celuna_furniture3_4
+    21300010: steampunk_celuna_furniture3_5
+    21300012: steampunk_celuna_furniture3_6
+    21300014: steampunk_celuna_furniture3_7
+    21300016: steampunk_celuna_furniture3_8
+    21300018: steampunk_celuna_furniture3_9
+    21300020: steampunk_celuna_furniture3_10
+    21300022: steampunk_celuna_furniture3_11
+    21300024: steampunk_celuna_furniture3_12
+    21300026: steampunk_celuna_furniture3_13
+    21300028: steampunk_celuna_furniture3_14
+    21300030: steampunk_celuna_furniture3_15
+    21300032: steampunk_celuna_furniture3_16
+    21300034: steampunk_celuna_furniture3_17
+    21300036: steampunk_celuna_furniture3_18
+    21300038: steampunk_celuna_furniture3_19
+    21300040: steampunk_celuna_furniture3_20
+    21300042: steampunk_celuna_furniture3_21
+    21300044: steampunk_celuna_furniture3_22
+    21300046: steampunk_celuna_furniture3_23
+    21300048: steampunk_celuna_furniture3_24
+    21300050: steampunk_celuna_furniture3_25
+    21300052: steampunk_celuna_furniture3_26
+    21300054: steampunk_celuna_furniture3_27
+    21300056: steampunk_celuna_furniture3_28
+    21300058: steampunk_celuna_furniture3_29
+    21300060: steampunk_celuna_furniture3_30
+    21300062: steampunk_celuna_furniture3_31
+    21300064: steampunk_celuna_furniture3_32
+    21300066: steampunk_celuna_furniture3_33
+    21300068: steampunk_celuna_furniture3_34
+    21300070: steampunk_celuna_furniture3_35
+    21300072: steampunk_celuna_furniture3_36
+    21300074: steampunk_celuna_furniture3_37
+    21300076: steampunk_celuna_furniture3_38
+    21300078: steampunk_celuna_furniture3_39
+    21300080: steampunk_celuna_furniture3_40
+    21300082: steampunk_celuna_furniture3_41
+    21300084: steampunk_celuna_furniture3_42
+    21300086: steampunk_celuna_furniture3_43
+    21300088: steampunk_celuna_furniture3_44
+    21300090: steampunk_celuna_furniture3_45
+    21300092: steampunk_celuna_furniture3_46
+    21300094: steampunk_celuna_furniture3_47
+    21300096: steampunk_celuna_furniture3_48
+    21300098: steampunk_celuna_furniture3_49
+    21300100: steampunk_celuna_furniture3_50
+    21300102: steampunk_celuna_furniture3_51
+    21300104: steampunk_celuna_furniture3_52
+    21300106: steampunk_celuna_furniture3_53
+    21300108: steampunk_celuna_furniture3_54
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -15,33 +72,833 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
   generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 1024
+  maxTextureSize: 8192
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
-    wrapMode: -1
-  nPOTScale: 1
+    wrapMode: 1
+  nPOTScale: 0
   lightmap: 0
+  rGBM: 0
   compressionQuality: 50
-  spriteMode: 0
+  allowsAlphaSplitting: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 100
-  alphaIsTransparency: 0
-  textureType: -1
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: steampunk_celuna_furniture3_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 332
+        width: 161
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 25}
+        - {x: -80.5, y: -25}
+        - {x: 80.5, y: -25}
+        - {x: 80.5, y: 25}
+    - name: steampunk_celuna_furniture3_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 309
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 309
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 309
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 309
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 309
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 309
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 309
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 309
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 309
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 309
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 309
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 309
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_13
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 309
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 309
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 227
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 32}
+        - {x: -17.5, y: -32}
+        - {x: 16.5, y: -32}
+        - {x: 17.5, y: -21}
+        - {x: 17.5, y: 32}
+    - name: steampunk_celuna_furniture3_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 227
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 32}
+        - {x: -17.5, y: -32}
+        - {x: 16.5, y: -32}
+        - {x: 17.5, y: -21}
+        - {x: 17.5, y: 32}
+    - name: steampunk_celuna_furniture3_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 227
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 32}
+        - {x: -28.5, y: -32}
+        - {x: 28.5, y: -32}
+        - {x: 28.5, y: 32}
+    - name: steampunk_celuna_furniture3_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 226
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 32}
+        - {x: -17.5, y: -32}
+        - {x: 16.5, y: -32}
+        - {x: 17.5, y: -21}
+        - {x: 17.5, y: 32}
+    - name: steampunk_celuna_furniture3_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 226
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 32}
+        - {x: -17, y: -32}
+        - {x: 17, y: -32}
+        - {x: 17, y: 32}
+    - name: steampunk_celuna_furniture3_20
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 226
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 32}
+        - {x: -28.5, y: -32}
+        - {x: 28.5, y: -32}
+        - {x: 28.5, y: 32}
+    - name: steampunk_celuna_furniture3_21
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 226
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 30.5}
+        - {x: -19, y: -30.5}
+        - {x: 19, y: -30.5}
+        - {x: 19, y: 29.5}
+        - {x: 17, y: 30.5}
+    - name: steampunk_celuna_furniture3_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 226
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 30.5}
+        - {x: -19, y: -30.5}
+        - {x: 19, y: -30.5}
+        - {x: 19, y: 29.5}
+        - {x: 17, y: 30.5}
+    - name: steampunk_celuna_furniture3_23
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 224
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 32}
+        - {x: -17.5, y: -32}
+        - {x: 16.5, y: -32}
+        - {x: 17.5, y: -21}
+        - {x: 17.5, y: 32}
+    - name: steampunk_celuna_furniture3_24
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 225
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 35.5}
+        - {x: -29.5, y: -35.5}
+        - {x: 28.5, y: -35.5}
+        - {x: 29.5, y: -30.5}
+        - {x: 29.5, y: 28.5}
+        - {x: 27.5, y: 35.5}
+    - name: steampunk_celuna_furniture3_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 155
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 32.5}
+        - {x: -17, y: 21.5}
+        - {x: -17, y: -32.5}
+        - {x: 17, y: -32.5}
+        - {x: 17, y: 25.5}
+        - {x: 8, y: 32.5}
+    - name: steampunk_celuna_furniture3_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 159
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16.5}
+        - {x: -16, y: -16.5}
+        - {x: 16, y: -16.5}
+        - {x: 16, y: 16.5}
+    - name: steampunk_celuna_furniture3_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 157
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 29.5}
+        - {x: -23.5, y: 29.5}
+        - {x: -23.5, y: -11.5}
+        - {x: -20.5, y: -29.5}
+        - {x: 23.5, y: -29.5}
+        - {x: 23.5, y: 22.5}
+        - {x: 14.5, y: 27.5}
+    - name: steampunk_celuna_furniture3_28
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 176
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_29
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 163
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 162
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 26.5}
+        - {x: -11, y: 14.5}
+        - {x: -11, y: 12.5}
+        - {x: -18, y: 0.5}
+        - {x: -18, y: -21.5}
+        - {x: -16, y: -26.5}
+        - {x: 18, y: -26.5}
+        - {x: 18, y: 10.5}
+        - {x: 17, y: 15.5}
+        - {x: 11, y: 26.5}
+    - name: steampunk_celuna_furniture3_31
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 161
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 23.5}
+        - {x: -17, y: 12.5}
+        - {x: -17, y: -20.5}
+        - {x: -15, y: -23.5}
+        - {x: 17, y: -23.5}
+        - {x: 17, y: 7.5}
+        - {x: 7, y: 23.5}
+    - name: steampunk_celuna_furniture3_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 100
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 22.5}
+        - {x: -28.5, y: -20.5}
+        - {x: -26.5, y: -22.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 21.5}
+        - {x: 26.5, y: 22.5}
+    - name: steampunk_celuna_furniture3_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 99
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 23.5}
+        - {x: -17, y: 19.5}
+        - {x: -17, y: -23.5}
+        - {x: 17, y: -23.5}
+        - {x: 17, y: 23.5}
+    - name: steampunk_celuna_furniture3_34
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 101
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 21}
+        - {x: -19, y: 12}
+        - {x: -19, y: -21}
+        - {x: 19, y: -21}
+        - {x: 19, y: 15}
+        - {x: 16, y: 21}
+    - name: steampunk_celuna_furniture3_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 101
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 22}
+        - {x: -19, y: 18}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: 21}
+        - {x: 18, y: 22}
+    - name: steampunk_celuna_furniture3_36
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 100
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 25.5}
+        - {x: -17, y: -25.5}
+        - {x: 17, y: -25.5}
+        - {x: 17, y: 24.5}
+        - {x: 14, y: 25.5}
+    - name: steampunk_celuna_furniture3_37
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 101
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_38
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 101
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 21.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: 18.5}
+        - {x: 12, y: 21.5}
+    - name: steampunk_celuna_furniture3_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 101
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18.5}
+        - {x: -16, y: 17.5}
+        - {x: -16, y: -18.5}
+        - {x: 16, y: -18.5}
+        - {x: 16, y: 15.5}
+        - {x: 7, y: 18.5}
+    - name: steampunk_celuna_furniture3_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 97
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 26.5}
+        - {x: -26, y: -26.5}
+        - {x: -3, y: -26.5}
+        - {x: 26, y: -11.5}
+        - {x: 26, y: 24.5}
+        - {x: 23, y: 26.5}
+    - name: steampunk_celuna_furniture3_41
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 97
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 25}
+        - {x: -26, y: -10}
+        - {x: 3, y: -25}
+        - {x: 26, y: -25}
+        - {x: 26, y: 25}
+    - name: steampunk_celuna_furniture3_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 99
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 24.5}
+        - {x: -16.5, y: 17.5}
+        - {x: -16.5, y: -24.5}
+        - {x: 16.5, y: -24.5}
+        - {x: 16.5, y: 13.5}
+        - {x: 9.5, y: 24.5}
+    - name: steampunk_celuna_furniture3_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_44
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 15
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 38}
+        - {x: -16, y: -38}
+        - {x: 13, y: -38}
+        - {x: 16, y: -32}
+        - {x: 16, y: 28}
+        - {x: -2, y: 38}
+    - name: steampunk_celuna_furniture3_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 16
+        width: 15
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_46
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 18
+        width: 21
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 18
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 32}
+        - {x: -28.5, y: -32}
+        - {x: 28.5, y: -32}
+        - {x: 28.5, y: 32}
+    - name: steampunk_celuna_furniture3_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 18
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 32}
+        - {x: -17.5, y: -32}
+        - {x: 16.5, y: -32}
+        - {x: 17.5, y: -21}
+        - {x: 17.5, y: 32}
+    - name: steampunk_celuna_furniture3_49
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 18
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 32}
+        - {x: -17.5, y: -32}
+        - {x: 16.5, y: -32}
+        - {x: 17.5, y: -21}
+        - {x: 17.5, y: 32}
+    - name: steampunk_celuna_furniture3_50
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 18
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 36.5}
+        - {x: -17.5, y: -36.5}
+        - {x: 16.5, y: -36.5}
+        - {x: 17.5, y: -10.5}
+        - {x: 17.5, y: 28.5}
+        - {x: 4.5, y: 36.5}
+    - name: steampunk_celuna_furniture3_51
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 18
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_furniture3_52
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 18
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 38}
+        - {x: -28.5, y: -35}
+        - {x: -26.5, y: -38}
+        - {x: 28.5, y: -38}
+        - {x: 28.5, y: 32}
+        - {x: 25.5, y: 38}
+    - name: steampunk_celuna_furniture3_53
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 18
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 36}
+        - {x: -28.5, y: -34}
+        - {x: -26.5, y: -36}
+        - {x: 28.5, y: -36}
+        - {x: 28.5, y: 31}
+        - {x: 21.5, y: 36}
+    - name: steampunk_celuna_furniture3_54
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 40
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 24.5}
+        - {x: -16.5, y: 10.5}
+        - {x: -16.5, y: -24.5}
+        - {x: 16.5, y: -24.5}
+        - {x: 16.5, y: 11.5}
+        - {x: 3.5, y: 24.5}
+    outline: []
   spritePackingTag: 
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,7 +1,24 @@
 fileFormatVersion: 2
 guid: 24d21df2df804f341a55be33891c8a8e
+timeCreated: 1466884697
+licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: steampunk_celuna_moreWindowDoor_0
+    21300002: steampunk_celuna_moreWindowDoor_1
+    21300004: steampunk_celuna_moreWindowDoor_2
+    21300006: steampunk_celuna_moreWindowDoor_3
+    21300008: steampunk_celuna_moreWindowDoor_4
+    21300010: steampunk_celuna_moreWindowDoor_5
+    21300012: steampunk_celuna_moreWindowDoor_6
+    21300014: steampunk_celuna_moreWindowDoor_7
+    21300016: steampunk_celuna_moreWindowDoor_8
+    21300018: steampunk_celuna_moreWindowDoor_9
+    21300020: steampunk_celuna_moreWindowDoor_10
+    21300022: steampunk_celuna_moreWindowDoor_11
+    21300024: steampunk_celuna_moreWindowDoor_12
+    21300026: steampunk_celuna_moreWindowDoor_13
+    21300028: steampunk_celuna_moreWindowDoor_14
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -15,33 +32,263 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
   generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 1024
+  maxTextureSize: 8192
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
-    wrapMode: -1
-  nPOTScale: 1
+    wrapMode: 1
+  nPOTScale: 0
   lightmap: 0
+  rGBM: 0
   compressionQuality: 50
-  spriteMode: 0
+  allowsAlphaSplitting: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 100
-  alphaIsTransparency: 0
-  textureType: -1
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: steampunk_celuna_moreWindowDoor_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 394
+        width: 303
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -151.5, y: 47}
+        - {x: -151.5, y: -47}
+        - {x: 151.5, y: -47}
+        - {x: 151.5, y: 47}
+    - name: steampunk_celuna_moreWindowDoor_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 356
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_moreWindowDoor_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 356
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: steampunk_celuna_moreWindowDoor_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 300
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 20}
+        - {x: -32, y: -20}
+        - {x: 32, y: -20}
+        - {x: 32, y: 20}
+    - name: steampunk_celuna_moreWindowDoor_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 300
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 20}
+        - {x: -32, y: -20}
+        - {x: 32, y: -20}
+        - {x: 32, y: 20}
+    - name: steampunk_celuna_moreWindowDoor_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 300
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 20}
+        - {x: -18, y: -20}
+        - {x: 18, y: -20}
+        - {x: 18, y: 20}
+    - name: steampunk_celuna_moreWindowDoor_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 300
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 20}
+        - {x: -18, y: -20}
+        - {x: 18, y: -20}
+        - {x: 18, y: 20}
+    - name: steampunk_celuna_moreWindowDoor_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 236
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 20}
+        - {x: -32, y: -20}
+        - {x: 32, y: -20}
+        - {x: 32, y: 20}
+    - name: steampunk_celuna_moreWindowDoor_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 236
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 20}
+        - {x: -32, y: -20}
+        - {x: 32, y: -20}
+        - {x: 32, y: 20}
+    - name: steampunk_celuna_moreWindowDoor_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 236
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 20}
+        - {x: -18, y: -20}
+        - {x: 18, y: -20}
+        - {x: 18, y: 20}
+    - name: steampunk_celuna_moreWindowDoor_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 236
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 20}
+        - {x: -18, y: -20}
+        - {x: 18, y: -20}
+        - {x: 18, y: 20}
+    - name: steampunk_celuna_moreWindowDoor_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 100
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 56}
+        - {x: -32, y: -54}
+        - {x: -24, y: -56}
+        - {x: 20, y: -56}
+        - {x: 31, y: -52}
+        - {x: 32, y: -49}
+        - {x: 32, y: 56}
+    - name: steampunk_celuna_moreWindowDoor_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 114
+        width: 36
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 49}
+        - {x: -18, y: -45}
+        - {x: -12, y: -49}
+        - {x: 15, y: -49}
+        - {x: 18, y: -46}
+        - {x: 18, y: 49}
+    - name: steampunk_celuna_moreWindowDoor_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 148
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 32}
+        - {x: -22, y: -32}
+        - {x: 22, y: -32}
+        - {x: 22, y: 32}
+    - name: steampunk_celuna_moreWindowDoor_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 148
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 32}
+        - {x: -22, y: -32}
+        - {x: 22, y: -32}
+        - {x: 22, y: 32}
+    outline: []
   spritePackingTag: 
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 
