@@ -44,12 +44,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Characters
-    uniqueID: 3920943385
-    locked: 0
   - name: Floor
     uniqueID: 865767977
     locked: 0
   - name: Item
     uniqueID: 2266278857
+    locked: 0
+  - name: Characters
+    uniqueID: 3920943385
     locked: 0
